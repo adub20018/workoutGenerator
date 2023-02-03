@@ -1,6 +1,6 @@
-# OpenAI API Node.js
+<h1>Workout Generator</h1>
 
-GPT-3 + React powered workout routine maker.
+GPT-3 / Next.js / React powered workout routine maker.
 
 Use `npm install`
 `npm run dev`
