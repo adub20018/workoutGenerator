@@ -5,7 +5,7 @@ GPT-3 / Next.js / React powered workout routine maker.
 Use `npm install`
 `npm run dev`
 
-<img src="public\workout_generator_home.png" width="60%"/>
+<img src="public\workout_generator_home.png" width="80%"/>
 
 Example Prompts:
 30 minute bodyweight
