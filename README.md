@@ -2,8 +2,8 @@
 
 GPT-3 + React powered workout routine maker.
 
-Use npm install
-npm run dev
+Use `npm install`
+`npm run dev`
 
 Example Prompts:
 30 minute bodyweight
